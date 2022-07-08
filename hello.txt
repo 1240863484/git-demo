@@ -10,4 +10,4 @@ hello git cwx! hello
 hello git cwx! hello
 hello git cwx! hello
 hello git cwx! hello master test
-hello cwx
+hello cwx hot-fix test
