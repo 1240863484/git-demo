@@ -13,3 +13,4 @@ hello git cwx! hello master test
 hello cwx hot-fix test
 11111111111111111111111
 test ssh
+push test
